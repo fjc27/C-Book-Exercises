@@ -6,10 +6,11 @@
 
 #include <stdio.h>
 
+#define PI (3.14159f)
+
 int main(void) {
     int radius = 0, r_cubed = 0;
-    float pi = 3.14159f;
-    float volume;
+    float volume = 0;
 
     printf("This program helps you calculate the volume (v) of a sphere.\n");
     printf("The formula used is v = (4/3) * pi * r^3\n");
@@ -18,7 +19,7 @@ int main(void) {
     scanf("%d", &radius);
 
     r_cubed = radius * radius * radius;
-    volume = (4.0f / 3.0f) * pi * r_cubed;
+    volume = (4.0f / 3.0f) * PI * r_cubed;
 
     printf("The volume of a sphere with a %d-meter radius is ~%.2f.\n", radius, volume);
 
