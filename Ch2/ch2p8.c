@@ -24,24 +24,17 @@ int main(void) {
     float monthly_payment = 0;
     scanf("%f", &monthly_payment);
 
-    float first_month_balance = 0;
-    float second_month_balance = 0;
-    float third_month_balance = 0;
-
     float monthly_interest = interest_rate / PERCENTAGE_CONVERTER / MONTHS_IN_YEAR;
 
-    first_month_balance = loan_amount + (loan_amount * monthly_interest);
-    first_month_balance = first_month_balance - monthly_payment;
+    float first_month_balance = loan_amount + (loan_amount * monthly_interest) - monthly_payment;
 
     printf("\nBalance remaining after first payment: $%.2f\n", first_month_balance);
 
-    second_month_balance = first_month_balance + (first_month_balance * monthly_interest);
-    second_month_balance = second_month_balance - monthly_payment;
+    float second_month_balance = first_month_balance + (first_month_balance * monthly_interest) - monthly_payment;
 
     printf("Balance remaining after second payment: $%.2f\n", second_month_balance);
 
-    third_month_balance = second_month_balance + (second_month_balance * monthly_interest);
-    third_month_balance = third_month_balance - monthly_payment;
+    float third_month_balance = second_month_balance + (second_month_balance * monthly_interest) - monthly_payment;
 
     printf("Balance remaining after third payment: $%.2f\n", third_month_balance);
 
