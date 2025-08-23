@@ -1,0 +1,24 @@
+// Javier Celestino
+// Testing print outputs
+
+#include <stdio.h>
+
+int main(void) {
+    printf("Exercise 1.\n");
+    printf("%6d,%4d\n", 86, 1040);
+    printf("%12.5e\n", 30.253);
+    printf("%.4f\n", 83.162);
+    printf("%-6.2g\n", .0000009979);
+
+    printf("Exercise 4.\n");
+    int i;
+    float x, y;
+    scanf("%f%d%f", &x, &i, &y);
+    printf("You typed %f, %d, and %f.\n", x, i, y);
+
+    printf("Exercise 5\n");
+    scanf("%f%d%f", &x, &i, &y);
+    printf("You typed %f, %d, and %f.\n", x, i, y);
+
+    return 0;
+}
