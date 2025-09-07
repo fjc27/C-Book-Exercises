@@ -1,6 +1,6 @@
 // Javier Celestino
 // C Programming - A Modern Approach
-// Chapter 2 PRogram 5
+// Chapter 2 Program 5
 //
 // This program asks the user to enter a value for x
 // and then displays the value of the following polynomial:
