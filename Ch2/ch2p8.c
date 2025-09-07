@@ -1,5 +1,7 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 Program 8
+//
 // This program calculates the remaining balance on a loan
 // after the first, second, and third monthly payments.
 

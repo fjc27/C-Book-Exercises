@@ -1,5 +1,7 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 4
+//
 // This program prompts for wind speed in knots,
 // then displays the corresponding description
 // according to the Beaufort scale.

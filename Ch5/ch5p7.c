@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 7
 //
 // This program finds the largest and smallest of four integers entered by the user.
 

@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 2
 //
 // This program prompts for a 24-hour time and displays the time in 12-hour format.
 //

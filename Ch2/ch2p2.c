@@ -1,6 +1,7 @@
-// Copyright 2025
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 Program 2
+//
 // This program is meant to compute the volume of a sphere
 // with a 10-meter radius, using the formula v = 4/3(pi)r^3
 

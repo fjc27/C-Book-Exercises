@@ -1,6 +1,7 @@
-// Copyright 2025
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 PRogram 5
+//
 // This program asks the user to enter a value for x
 // and then displays the value of the following polynomial:
 // 3x^5 + 2x^4 - 5x^3 - x^2 + 7x - 6

@@ -1,6 +1,7 @@
-// Copyright 2025
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 Program 4
+//
 // This program is meant to ask the user to enter a dollars-and-cents amount,
 // then displays the amount with 5% tax added.
 // For example:

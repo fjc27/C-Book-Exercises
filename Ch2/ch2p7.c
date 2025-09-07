@@ -1,5 +1,7 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 Program 7
+//
 // This program asks the user to enter a U.S. dollar amount
 // and then shows how to pay that amount using
 // the smallest number of $20, $10, $5, and $1 bills.

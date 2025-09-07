@@ -1,6 +1,7 @@
-// Copyright 2025
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 2 Program 1
+//
 // This program is meant to use printf to display a checkmark.
 
 #include <stdio.h>

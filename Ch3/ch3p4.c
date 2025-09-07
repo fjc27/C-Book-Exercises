@@ -1,5 +1,7 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 3 Program 4
+//
 // This program prompts the user for a telephone number in one format
 // and then displays the number in a different format.
 

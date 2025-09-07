@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 5
 //
 // This program prompts the user to enter a taxable income amount,
 // then displays the tax due.

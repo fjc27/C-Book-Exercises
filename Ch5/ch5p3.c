@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 3
 //
 // This program modifies the book's broker.c program.
 // The changes are the following:

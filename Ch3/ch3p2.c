@@ -1,5 +1,7 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 3 Program 2
+//
 // This program prompts the user for product information and formats it for output.
 
 #include <stdio.h>

@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 4 Program 1
 //
 // This program prompts for a two-digit number,
 // and then prints the digits reversed.

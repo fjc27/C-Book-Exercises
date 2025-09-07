@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 3 Program 6
 //
 // This program prompts the user for two fractions to add them.
 

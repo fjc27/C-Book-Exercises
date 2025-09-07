@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 3 Program 3
 //
 // This program prompts for an ISBN and separates the differents parts of the ISBN as output.
 

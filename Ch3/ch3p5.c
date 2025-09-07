@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 3 Program 5
 //
 // This program prompts the user to enter the numbers 1-16 in any order
 // and then displays the numbers in a 4 by 4 arrangement,

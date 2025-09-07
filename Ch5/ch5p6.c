@@ -1,5 +1,6 @@
 // Javier Celestino
-// C Programming - A Modern Approach Exercises
+// C Programming - A Modern Approach
+// Chapter 5 Program 6
 //
 // This program computes the check digit of a Universal Product Code (UPC)
 // and then checks if the check digit matches the user's input
